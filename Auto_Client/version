@@ -1,6 +1,9 @@
 {
-"version": 0.4,
+"version": 0.5,
 "information": [
+"Version 0.5 (26/06/2020):",
+"-Hỗ trợ KingFun",
+""
 "Version 0.4:",
 "-Tự kết nối lại WS, sửa lỗi...",
 "",
