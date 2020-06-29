@@ -1,8 +1,11 @@
 {
-"version": 0.5,
+"version": 0.6,
 "information": [
-"Version 0.5 (26/06/2020):",
-"-Hỗ trợ KingFun",
+"Version 0.6 (20200629):",
+"-Sửa lỗi kết nối game",
+"",
+"Version 0.5:",
+"-Hỗ trợ KingFun",
 "",
 "Version 0.4:",
 "-Tự kết nối lại WS, sửa lỗi...",
