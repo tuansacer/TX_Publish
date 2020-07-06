@@ -1,7 +1,10 @@
 {
-"version": 0.7,
+"version": 0.8,
 "information": [
-"Version 0.7 (20200703):",
+"Version 0.8 (20200706):",
+"-Tối ưu giao diện, sửa lỗi...",
+"",
+"Version 0.7:",
 "-Hỗ trợ BOT, ẩn chương trình, sửa lỗi...",
 "",
 "Version 0.6:",
