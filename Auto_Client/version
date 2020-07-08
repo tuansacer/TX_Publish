@@ -1,7 +1,10 @@
 {
-"version": 0.8,
+"version": 0.9,
 "information": [
-"Version 0.8 (20200706):",
+"Version 0.9 (20200708):",
+"-Tối ưu giao diện, thêm "Tóm tắt cài đặt"...",
+"",
+"Version 0.8:",
 "-Tối ưu giao diện, sửa lỗi...",
 "",
 "Version 0.7:",
