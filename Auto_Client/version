@@ -2,7 +2,7 @@
 "version": "0.10",
 "information": [
 "Version 0.10 (20200712):",
-"-Hỗ trợ Go88",
+"-Hỗ trợ Go88, Sửa lỗi số dư tài khoản KingFun",
 "",
 "Version 0.9:",
 "-Tối ưu giao diện, thêm 'Tóm tắt cài đặt'...",
