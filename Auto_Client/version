@@ -1,7 +1,10 @@
 {
-"version": 0.9,
+"version": 0.10,
 "information": [
-"Version 0.9 (20200708):",
+"Version 0.10 (20200712):",
+"-Hỗ trợ Go88",
+"",
+"Version 0.9:",
 "-Tối ưu giao diện, thêm 'Tóm tắt cài đặt'...",
 "",
 "Version 0.8:",
