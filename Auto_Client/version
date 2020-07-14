@@ -1,7 +1,12 @@
 {
-"version": "0.10",
+"version": "0.11",
 "information": [
-"Version 0.10 (20200712):",
+"Version 0.11 (20200714):",
+"-Tối ưu giao diện và các thông tin",
+"-Thêm cài đặt: FOLLOW_STEP, SETUP_RESET",
+"-Cho phép nhập - hoặc enter trong Cài đặt",
+"",
+"Version 0.10:",
 "-Hỗ trợ Go88, Sửa lỗi số dư tài khoản KingFun",
 "",
 "Version 0.9:",
