@@ -1,7 +1,10 @@
 {
-"version": "0.11",
+"version": "0.12",
 "information": [
-"Version 0.11 (20200714):",
+"Version 0.12 (20200728):",
+"-Sửa lỗi và tối ưu bên trong chương trinh",
+"",
+"Version 0.11:",
 "-Tối ưu giao diện và các thông tin",
 "-Thêm cài đặt: FOLLOW_STEP, SETUP_RESET",
 "-Cho phép nhập - hoặc enter trong Cài đặt",
