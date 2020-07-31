@@ -1,7 +1,11 @@
 {
-"version": "0.12",
+"version": "0.13",
 "information": [
-"Version 0.12 (20200728):",
+"Version 0.13 (20200731):",
+"-Sửa lỗi sai tiền tài khoản",
+"-Thêm tùy chọn bỏ qua số phiên khi bắt đầu (CÀI ĐẶT CHUNG)",
+"",
+"Version 0.12:",
 "-Sửa lỗi và tối ưu bên trong chương trinh",
 "",
 "Version 0.11:",
