@@ -1,7 +1,11 @@
 {
 "version": "0.13",
 "information": [
-"Version 0.13 (20200731):",
+"Version 0.14 (20200803):",
+"-Đăng ký tài khoản trực tiếp qua auto",
+"-Thanh toán trực tiếp qua auto",
+"",
+"Version 0.13:",
 "-Sửa lỗi sai tiền tài khoản",
 "-Thêm tùy chọn bỏ qua số phiên khi bắt đầu (CÀI ĐẶT CHUNG)",
 "",
