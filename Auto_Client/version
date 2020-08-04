@@ -1,7 +1,10 @@
 {
-"version": "0.13",
+"version": "0.15",
 "information": [
-"Version 0.14 (20200803):",
+"Version 0.15 (20200804):",
+"-Tối ưu hóa auto",
+"",
+"Version 0.14:",
 "-Đăng ký tài khoản trực tiếp qua auto",
 "-Thanh toán trực tiếp qua auto",
 "",
