@@ -1,7 +1,10 @@
 {
-"version": "0.15",
+"version": "0.16",
 "information": [
-"Version 0.15 (20200804):",
+"Version 0.16 (20200805):",
+"-Tối ưu game kingfun",
+"",
+"Version 0.15:",
 "-Tối ưu hóa auto",
 "",
 "Version 0.14:",
