@@ -1,7 +1,8 @@
-﻿{
+{
   "version": "1.4",
   "required": true,
   "information": [
-    "Version 1.4: Sửa lỗi + Tối ưu"
+    "Version 1.4:",
+    "-Tối ưu + Sửa lỗi"
   ]
 }
